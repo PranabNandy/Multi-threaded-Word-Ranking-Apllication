@@ -26,5 +26,9 @@ This module has  5 workerthread and each thread get the file to process from Syn
 Once the file search is complete and all text files finish processing, the program prints out the top 10 words
 and their counts.We just want to find the top 10 words across a directory tree of text files.
 
+# How to run the program
 
+**$ make**
+
+**$ ./wordindex.out DIR**
 
