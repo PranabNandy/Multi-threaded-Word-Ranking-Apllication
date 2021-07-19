@@ -5,7 +5,7 @@ Created a multi-threaded text ﬁle ranking command line application in C++ whic
 <h1> System Design </h1>
 
 
-![Methodology](/Image/first.PNG)
+![Methodology](/Image/first1.PNG)
 
 # Modules
 
