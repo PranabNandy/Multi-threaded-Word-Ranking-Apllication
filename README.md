@@ -1,5 +1,6 @@
 # Multi-threaded-Word-Ranking-Apllication
-Created a multi-threaded text ﬁle ranking command line application in C++ which accpets ﬁles path as input. Here one thread is responsible for searching all the text ﬁles in the given directory and its subdirectories while other 5 threads do the processing of the searched ﬁles simultaneously and store the results in Master Table data strucrure.
+Created a multi-threaded text ﬁles’ word ranking command line application in C++. Here Search Thread is responsible for searching all the text
+ﬁles in the given directory and its subdirectories while other 5 Worker Threads do the processing of the searched ﬁles from Sync Queue simultaneously and store the results in Master Table data strucrure.
 
 
 <h1> System Design </h1>
